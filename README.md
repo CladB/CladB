@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CladB
+- 👋 Hi, I’m Cladio Bernard Octaviano
 - 👀 I’m interested in Tech
 - 🌱 I’m a Computer Science Student at Binus University
 
